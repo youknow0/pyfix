@@ -1,0 +1,39 @@
+///////////////////////////////////////////////////////////////////////
+                        ____        _____ _      
+                       |  _ \ _   _|  ___(_)_  __
+                       | |_) | | | | |_  | \ \/ /
+                       |  __/| |_| |  _| | |>  < 
+                       |_|    \__, |_|   |_/_/\_\
+                              |___/              
+///////////////////////////////////////////////////////////////////////
+
+ ABOUT PYFIX
+
+PyFix is a script for the Greasemonkey (http://www.greasespot.net/)
+which extends or just fixes pytal.de. 
+PyFix will only be interesting for you if you are signed up there.
+
+ FEATURES
+
+Currently, PyFix provides a wide range of features. If you have any idea,
+do not hesitate to contact me.
+
+ * Add Accesskey to submit post form
+ * Add some Tabs to header
+ * Advanced editor for posts
+   * Changes Syntax of URL-BBCode
+     Before: [url="Example"]http://example.com[/url]
+     After:  [url="http://example.com"]Example[/url]
+   * Insert smileys at postition of cursor
+   * New smileys
+   * Upload pictures to image.gd while posting
+   * Have a look at the thread you are posting to while posting
+ * Confirm deleting/closing of postings
+ * Append a signature to every posting
+ * Highlight your own nick
+ * Force usage of encrypted connections
+ 
+ CHANGELOG
+ 
+ 21.07.2008
+ * First check-in to GIT, created README
